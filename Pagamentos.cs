@@ -33,6 +33,7 @@ namespace AulaCSharp
                         this.dinheiro = this.quantidade - this.geral;
                         Console.WriteLine($"Saldo Atual: R$ {this.dinheiro}\n");
                     }
+
                     else
                     {
                         Console.WriteLine("Dinheiro insuficiente\n");
