@@ -20,7 +20,7 @@ Temos as opões de interação com o menu, mas foi mal feito, não fiz a funçã
 |--------|-------|
 |Menu integrado dentro das classes| Mudança para Java |
 |Escolhas de setores | Mudança para Java |
-|Setoques com quantidades | Mudança para Java |
+|Estoques com quantidades | Mudança para Java |
 |Verificação se o cliente tem saldo| Mudança para Java |
 |Quantidades máxima para compras de ingressos até 2| Mudança para Java|
 
